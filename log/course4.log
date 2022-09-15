@@ -1,0 +1,32 @@
+2022-09-15 22:03:11,561 INFO c.e.d.SareetaApplication [main] Starting SareetaApplication on thanhbtde140273 with PID 14092 (D:\FSOFT_TRAINING\ThanhBT11_P4\nd035-c4-Security-and-DevOps-master\starter_code\target\classes started by USER in D:\FSOFT_TRAINING\ThanhBT11_P4\nd035-c4-Security-and-DevOps-master)
+2022-09-15 22:03:11,571 DEBUG c.e.d.SareetaApplication [main] Running with Spring Boot v2.1.5.RELEASE, Spring v5.1.7.RELEASE
+2022-09-15 22:03:11,572 INFO c.e.d.SareetaApplication [main] No active profile set, falling back to default profiles: default
+2022-09-15 22:04:17,338 INFO c.e.d.SareetaApplication [main] Starting SareetaApplication on thanhbtde140273 with PID 4176 (D:\FSOFT_TRAINING\ThanhBT11_P4\nd035-c4-Security-and-DevOps-master\starter_code\target\classes started by USER in D:\FSOFT_TRAINING\ThanhBT11_P4\nd035-c4-Security-and-DevOps-master)
+2022-09-15 22:04:17,355 DEBUG c.e.d.SareetaApplication [main] Running with Spring Boot v2.1.5.RELEASE, Spring v5.1.7.RELEASE
+2022-09-15 22:04:17,357 INFO c.e.d.SareetaApplication [main] No active profile set, falling back to default profiles: default
+2022-09-15 22:05:10,774 INFO c.e.d.SareetaApplication [main] Starting SareetaApplication on thanhbtde140273 with PID 16876 (D:\FSOFT_TRAINING\ThanhBT11_P4\nd035-c4-Security-and-DevOps-master\starter_code\target\classes started by USER in D:\FSOFT_TRAINING\ThanhBT11_P4\nd035-c4-Security-and-DevOps-master)
+2022-09-15 22:05:10,788 DEBUG c.e.d.SareetaApplication [main] Running with Spring Boot v2.1.5.RELEASE, Spring v5.1.7.RELEASE
+2022-09-15 22:05:10,791 INFO c.e.d.SareetaApplication [main] No active profile set, falling back to default profiles: default
+2022-09-15 22:06:04,560 INFO c.e.d.SareetaApplication [main] Starting SareetaApplication on thanhbtde140273 with PID 18224 (D:\FSOFT_TRAINING\ThanhBT11_P4\nd035-c4-Security-and-DevOps-master\starter_code\target\classes started by USER in D:\FSOFT_TRAINING\ThanhBT11_P4\nd035-c4-Security-and-DevOps-master)
+2022-09-15 22:06:04,578 DEBUG c.e.d.SareetaApplication [main] Running with Spring Boot v2.1.5.RELEASE, Spring v5.1.7.RELEASE
+2022-09-15 22:06:04,579 INFO c.e.d.SareetaApplication [main] No active profile set, falling back to default profiles: default
+2022-09-15 22:07:22,607 INFO c.e.d.SareetaApplication [main] Starting SareetaApplication on thanhbtde140273 with PID 13732 (D:\FSOFT_TRAINING\ThanhBT11_P4\nd035-c4-Security-and-DevOps-master\starter_code\target\classes started by USER in D:\FSOFT_TRAINING\ThanhBT11_P4\nd035-c4-Security-and-DevOps-master)
+2022-09-15 22:07:22,619 DEBUG c.e.d.SareetaApplication [main] Running with Spring Boot v2.1.5.RELEASE, Spring v5.1.7.RELEASE
+2022-09-15 22:07:22,621 INFO c.e.d.SareetaApplication [main] No active profile set, falling back to default profiles: default
+2022-09-15 22:08:20,306 INFO c.e.d.SareetaApplication [main] Starting SareetaApplication on thanhbtde140273 with PID 19736 (D:\FSOFT_TRAINING\ThanhBT11_P4\nd035-c4-Security-and-DevOps-master\starter_code\target\classes started by USER in D:\FSOFT_TRAINING\ThanhBT11_P4\nd035-c4-Security-and-DevOps-master)
+2022-09-15 22:08:20,316 DEBUG c.e.d.SareetaApplication [main] Running with Spring Boot v2.1.5.RELEASE, Spring v5.1.7.RELEASE
+2022-09-15 22:08:20,317 INFO c.e.d.SareetaApplication [main] No active profile set, falling back to default profiles: default
+2022-09-15 22:08:27,030 DEBUG c.e.d.s.JWTAuthenticationVerificationFilter [main] Filter 'JWTAuthenticationVerificationFilter' configured for use
+2022-09-15 22:09:01,614 INFO c.e.d.SareetaApplication [main] Starting SareetaApplication on thanhbtde140273 with PID 20672 (D:\FSOFT_TRAINING\ThanhBT11_P4\nd035-c4-Security-and-DevOps-master\starter_code\target\classes started by USER in D:\FSOFT_TRAINING\ThanhBT11_P4\nd035-c4-Security-and-DevOps-master)
+2022-09-15 22:09:01,630 DEBUG c.e.d.SareetaApplication [main] Running with Spring Boot v2.1.5.RELEASE, Spring v5.1.7.RELEASE
+2022-09-15 22:09:01,632 INFO c.e.d.SareetaApplication [main] No active profile set, falling back to default profiles: default
+2022-09-15 22:09:09,171 DEBUG c.e.d.s.JWTAuthenticationVerificationFilter [main] Filter 'JWTAuthenticationVerificationFilter' configured for use
+2022-09-15 22:09:57,506 INFO c.e.d.SareetaApplication [main] Starting SareetaApplication on thanhbtde140273 with PID 4868 (D:\FSOFT_TRAINING\ThanhBT11_P4\nd035-c4-Security-and-DevOps-master\starter_code\target\classes started by USER in D:\FSOFT_TRAINING\ThanhBT11_P4\nd035-c4-Security-and-DevOps-master)
+2022-09-15 22:09:57,518 DEBUG c.e.d.SareetaApplication [main] Running with Spring Boot v2.1.5.RELEASE, Spring v5.1.7.RELEASE
+2022-09-15 22:09:57,520 INFO c.e.d.SareetaApplication [main] No active profile set, falling back to default profiles: default
+2022-09-15 22:10:56,328 INFO c.e.d.SareetaApplication [main] Starting SareetaApplication on thanhbtde140273 with PID 21356 (D:\FSOFT_TRAINING\ThanhBT11_P4\nd035-c4-Security-and-DevOps-master\starter_code\target\classes started by USER in D:\FSOFT_TRAINING\ThanhBT11_P4\nd035-c4-Security-and-DevOps-master)
+2022-09-15 22:10:56,341 DEBUG c.e.d.SareetaApplication [main] Running with Spring Boot v2.1.5.RELEASE, Spring v5.1.7.RELEASE
+2022-09-15 22:10:56,342 INFO c.e.d.SareetaApplication [main] No active profile set, falling back to default profiles: default
+2022-09-15 22:11:04,547 DEBUG c.e.d.s.JWTAuthenticationVerificationFilter [main] Filter 'JWTAuthenticationVerificationFilter' configured for use
+2022-09-15 22:11:05,742 INFO c.e.d.SareetaApplication [main] Started SareetaApplication in 9.996 seconds (JVM running for 12.176)
+2022-09-15 22:11:05,746 INFO c.e.d.SareetaApplication [main] Course4 Application Started!

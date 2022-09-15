@@ -1,0 +1,54 @@
+2022-09-15 20:58:47,131 INFO c.e.d.c.UserController [main] Create user request
+2022-09-15 20:58:47,144 INFO c.e.d.c.UserController [main] Create user request successes
+2022-09-15 20:58:47,155 INFO c.e.d.c.UserController [main] Create user request
+2022-09-15 20:58:47,155 ERROR c.e.d.c.UserController [main] Create user request failures
+2022-09-15 20:58:47,159 INFO c.e.d.c.UserController [main] Create user request
+2022-09-15 20:58:47,159 ERROR c.e.d.c.UserController [main] Create user request failures
+2022-09-15 20:59:19,791 INFO c.e.d.c.UserController [main] Create user request
+2022-09-15 20:59:19,804 INFO c.e.d.c.UserController [main] Create user request successes
+2022-09-15 20:59:19,816 INFO c.e.d.c.UserController [main] Create user request
+2022-09-15 20:59:19,818 ERROR c.e.d.c.UserController [main] Create user request failures
+2022-09-15 20:59:19,822 INFO c.e.d.c.UserController [main] Create user request
+2022-09-15 20:59:19,823 ERROR c.e.d.c.UserController [main] Create user request failures
+2022-09-15 21:07:41,176 INFO c.e.d.c.UserController [main] Create new user!
+2022-09-15 21:07:41,190 INFO c.e.d.c.UserController [main] Create new user successfully!
+2022-09-15 21:07:41,199 INFO c.e.d.c.UserController [main] Create new user!
+2022-09-15 21:07:41,200 INFO c.e.d.c.UserController [main] Create new user successfully!
+2022-09-15 21:07:41,213 INFO c.e.d.c.UserController [main] Create new user!
+2022-09-15 21:07:41,214 ERROR c.e.d.c.UserController [main] Password or confirm password is invalid!
+2022-09-15 21:09:04,642 INFO c.e.d.c.UserController [main] Create new user!
+2022-09-15 21:09:04,657 INFO c.e.d.c.UserController [main] Create new user successfully!
+2022-09-15 21:09:04,666 INFO c.e.d.c.UserController [main] Create new user!
+2022-09-15 21:09:04,667 ERROR c.e.d.c.UserController [main] Password or confirm password is invalid!
+2022-09-15 21:09:04,669 INFO c.e.d.c.UserController [main] Create new user!
+2022-09-15 21:09:04,670 ERROR c.e.d.c.UserController [main] Password or confirm password is invalid!
+2022-09-15 21:09:26,208 INFO c.e.d.c.UserController [main] Create new user!
+2022-09-15 21:09:26,221 INFO c.e.d.c.UserController [main] Create new user successfully!
+2022-09-15 21:09:26,234 INFO c.e.d.c.UserController [main] Create new user!
+2022-09-15 21:09:26,235 ERROR c.e.d.c.UserController [main] Password or confirm password is invalid!
+2022-09-15 21:09:26,238 INFO c.e.d.c.UserController [main] Create new user!
+2022-09-15 21:09:26,239 ERROR c.e.d.c.UserController [main] Password or confirm password is invalid!
+2022-09-15 21:10:29,320 INFO c.e.d.c.UserController [main] Create new user!
+2022-09-15 21:10:29,337 INFO c.e.d.c.UserController [main] Create new user successfully!
+2022-09-15 21:10:29,347 INFO c.e.d.c.UserController [main] Create new user!
+2022-09-15 21:10:29,348 ERROR c.e.d.c.UserController [main] Password or confirm password is invalid!
+2022-09-15 21:10:29,352 INFO c.e.d.c.UserController [main] Create new user!
+2022-09-15 21:10:29,352 ERROR c.e.d.c.UserController [main] Password or confirm password is invalid!
+2022-09-15 22:00:45,688 INFO c.e.d.c.UserController [main] Create new user!
+2022-09-15 22:00:45,701 INFO c.e.d.c.UserController [main] Create new user successfully!
+2022-09-15 22:00:45,707 INFO c.e.d.c.UserController [main] Create new user!
+2022-09-15 22:00:45,707 ERROR c.e.d.c.UserController [main] Password or confirm password is invalid!
+2022-09-15 22:00:45,711 INFO c.e.d.c.UserController [main] Create new user!
+2022-09-15 22:00:45,711 ERROR c.e.d.c.UserController [main] Password or confirm password is invalid!
+2022-09-15 22:01:13,433 INFO c.e.d.c.UserController [main] Create new user!
+2022-09-15 22:01:13,448 INFO c.e.d.c.UserController [main] Create new user successfully!
+2022-09-15 22:01:13,452 INFO c.e.d.c.UserController [main] Create new user!
+2022-09-15 22:01:13,452 ERROR c.e.d.c.UserController [main] Password or confirm password is invalid!
+2022-09-15 22:01:13,456 INFO c.e.d.c.UserController [main] Create new user!
+2022-09-15 22:01:13,457 ERROR c.e.d.c.UserController [main] Password or confirm password is invalid!
+2022-09-15 22:01:29,955 INFO c.e.d.c.UserController [main] Create new user!
+2022-09-15 22:01:29,968 INFO c.e.d.c.UserController [main] Create new user successfully!
+2022-09-15 22:01:29,971 INFO c.e.d.c.UserController [main] Create new user!
+2022-09-15 22:01:29,971 ERROR c.e.d.c.UserController [main] Password or confirm password is invalid!
+2022-09-15 22:01:29,974 INFO c.e.d.c.UserController [main] Create new user!
+2022-09-15 22:01:29,974 ERROR c.e.d.c.UserController [main] Password or confirm password is invalid!
